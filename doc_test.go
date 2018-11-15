@@ -21,7 +21,7 @@ import (
 	"github.com/go-openapi/loads" // Spec loading
 	"github.com/go-openapi/spec"
 	"github.com/go-openapi/strfmt"   // OpenAPI format extensions
-	"github.com/go-openapi/validate" // This package
+	"github.com/baishancloud/go-openapi-validate" // This package
 )
 
 func ExampleSpec() {

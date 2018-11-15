@@ -19,8 +19,8 @@ github.com/go-openapi/jsonreference v0.17.0 h1:d/o7/fsLWWQZACbihvZxcyLQ59jfUVs7W
 github.com/go-openapi/jsonreference v0.17.0/go.mod h1:W3Z9FmVs9qj+KR4zFKmDPGiLdk1D9Rlm7cyMvf57TTg=
 github.com/go-openapi/loads v0.17.0 h1:H22nMs3GDQk4SwAaFQ+jLNw+0xoFeCueawhZlv8MBYs=
 github.com/go-openapi/loads v0.17.0/go.mod h1:72tmFy5wsWx89uEVddd0RjRWPZm92WRLhf7AC+0+OOU=
-github.com/go-openapi/runtime v0.0.0-20180920151709-4f900dc2ade9 h1:zXd+rkzHwMIYVTJ/j/v8zUQ9j3Ir32gC5Dn9DzZVvCk=
-github.com/go-openapi/runtime v0.0.0-20180920151709-4f900dc2ade9/go.mod h1:6v9a6LTXWQCdL8k1AO3cvqx5OtZY/Y9wKTgaoP6YRfA=
+github.com/baishancloud/go-openapi-runtime v0.0.0-20180920151709-4f900dc2ade9 h1:zXd+rkzHwMIYVTJ/j/v8zUQ9j3Ir32gC5Dn9DzZVvCk=
+github.com/baishancloud/go-openapi-runtime v0.0.0-20180920151709-4f900dc2ade9/go.mod h1:6v9a6LTXWQCdL8k1AO3cvqx5OtZY/Y9wKTgaoP6YRfA=
 github.com/go-openapi/spec v0.17.0 h1:MM5YaXBdBOEcjGHW5WayrAY5Ze2ydNyy71JHeTi7xUc=
 github.com/go-openapi/spec v0.17.0/go.mod h1:J8+jY1nAiCcj+friV/PDoE1/3eeccG9LYBs0tYvLOWc=
 github.com/go-openapi/strfmt v0.17.0 h1:79+bCyGHowS3rkr6z8RcG5jVzdKpeKXlDuW6yqE50TM=

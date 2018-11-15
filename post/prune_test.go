@@ -25,7 +25,7 @@ import (
 
 	"github.com/go-openapi/spec"
 	"github.com/go-openapi/strfmt"
-	validate "github.com/go-openapi/validate"
+	validate "github.com/baishancloud/go-openapi-validate"
 )
 
 var pruneFixturesPath = filepath.Join("..", "fixtures", "pruning")

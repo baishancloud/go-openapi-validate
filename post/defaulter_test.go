@@ -25,7 +25,7 @@ import (
 
 	"github.com/go-openapi/spec"
 	"github.com/go-openapi/strfmt"
-	"github.com/go-openapi/validate"
+	"github.com/baishancloud/go-openapi-validate"
 )
 
 var defaulterFixturesPath = filepath.Join("..", "fixtures", "defaulting")

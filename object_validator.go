@@ -100,7 +100,8 @@ func (o *objectValidator) Validate(data interface{}) *Result {
 
 	res := new(Result)
 
-	o.precheck(res, val)
+	// remove precheck
+	// o.precheck(res, val)
 
 	// check validity of field names
 	if o.AdditionalProperties != nil && !o.AdditionalProperties.Allows {
